@@ -19,7 +19,7 @@ Caso queira entrar em contato só me mandar um e-mail ou mensagem pelo LinkedIn.
 ## Hi ## 
 My name is Thais Alves, I'm 29 years old, I live in São Paulo/SP and technology has always caught my attention.
 
-I'm currently participating in the <a href="https://www.laboratoria.la/br">Laboratório</a> bootcamp, a 6-month training focused on Front-End.
+I'm currently participating in the <a href="https://www.laboratoria.la/br">Laboratória</a> bootcamp, a 6-month training focused on Front-End.
 
 I'm loving this journey and loving each discovery and the quest to learn more and more.
 
