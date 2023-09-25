@@ -3,7 +3,7 @@
 <img align="right" width="320" height="320" alt="girl" src="https://descodificadas.com.br/wp-content/uploads/2021/02/ilustracao-1.png">
 </div>
 
-Eu me chamo Thais Alves, tenho 29 anos, moro em São Paulo/SP e a tecnologia sempre chamou minha atenção.
+Eu me chamo Thais Alves, tenho 30 anos, moro em São Paulo/SP e a tecnologia sempre chamou minha atenção.
 
 Atualmente eu estou participando do bootcamp da <a href="https://www.laboratoria.la/br">Laboratória</a>, uma formação de 6 meses focada em Front-End.
 
@@ -17,7 +17,7 @@ Caso queira entrar em contato só me mandar um e-mail ou mensagem pelo LinkedIn.
   <a href = "mailto:tathyflor@gmail.com"><img src="https://img.icons8.com/glyph-neue/40/FFFFFF/gmail.png" target="_blank"></a>
 
 ## Hi ## 
-My name is Thais Alves, I'm 29 years old, I live in São Paulo/SP and technology has always caught my attention.
+My name is Thais Alves, I'm 30 years old, I live in São Paulo/SP and technology has always caught my attention.
 
 I'm currently participating in the <a href="https://www.laboratoria.la/br">Laboratória</a> bootcamp, a 6-month training focused on Front-End.
 
